@@ -18,7 +18,7 @@ O projeto é baseado no consumo da api https://restcountries.com/ que coletamos 
 - Aprendizado Vue.JS, Vuex, VueRouter, Axios, Node.js
 - Deploy do projeto.
 
-https://country-flags-api.netlify.app/
+[Demo](https://country-flags-api.netlify.app/)
 
 ### License/Licença do Projeto
 [MIT License](./LICENSE) ©
