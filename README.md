@@ -1,4 +1,4 @@
-## <a href="https://country-flags-api.netlify.app/">Countries Flags APP</a>
+## <a href="https://country-flags-api.netlify.app/">Countries Flags Vue APP</a>
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/alexcamposwd/contry_flags_api/blob/main/LICENSE) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a536fb0-58c6-4aaa-807f-6ada4246d6d7/deploy-status)](https://app.netlify.com/sites/country-flags-api/deploys)
 
@@ -18,7 +18,7 @@ O projeto é baseado no consumo da api https://restcountries.com/ que coletamos 
 - Aprendizado Vue.JS, Vuex, VueRouter, Axios, Node.js
 - Deploy do projeto.
 
-[Demo](https://country-flags-api.netlify.app/)
+##[Demo](https://country-flags-api.netlify.app/)
 
 ### License/Licença do Projeto
 [MIT License](./LICENSE) ©
